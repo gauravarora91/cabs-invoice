@@ -70,7 +70,7 @@ $message = '<html>
 
 <div class="header" width="100%" style="background-color:black; height:100px;">
   <div class="logo" style="width:22%;">
-  <img src="resources/rutogo.png" alt="Creating Email Magic" width="100%" height="92px" style="display: block; float:left; padding: 4px 0px 4px 13px;" />
+  <img src="http://invoice.wizvy.com/resources/rutogo.png" alt="Creating Email Magic" width="100%" height="92px" style="display: block; float:left; padding: 4px 0px 4px 13px;" />
   </div>
     <div class="invoice" style="width:52%;margin-top:4%; float:right;  margin-right: 2%;">
           <p align="right" style="color:white;  margin:0px; padding:0px; font-family:Trebuchet MS,Arial,Helvetica,sans-serif;">Invoice No : '.$invoice_no.'</p>
@@ -79,7 +79,7 @@ $message = '<html>
 </div>
     
  <div style="width:98%;margin-left:1%;"> 
- <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 auto; table-layout:fixed; background-image:url(\'http://memeveme.com/resources/background.png\');background-repeat: no-repeat;">
+ <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 auto; table-layout:fixed; background-image:url(\'http://invoice.wizvy.com/resources/background.png\');background-repeat: no-repeat;">
   <tr>
    <td  width="100%" align="center">
      <table align="center" border="0" cellpadding="0" cellspacing="0"  style=" border-collapse: collapse; width:75%;">
@@ -251,7 +251,7 @@ $message = '<html>
 
             <tr style="width:100%;">
              <td style="">
-               <img src="resources/terms.png" style="width:100%;"> 
+               <img src="http://invoice.wizvy.com/resources/terms.png" style="width:100%;"> 
              </td>
             </tr>
 
@@ -264,12 +264,12 @@ $message = '<html>
 </div>
      <footer>
     <div class="header" width="100%" style="background-color:black;">
-         <img src="resources/address.png" style="width:67%; "> 
+         <img src="http://invoice.wizvy.com/resources/address.png" style="width:67%; "> 
           <div style="float:right; padding-top:18px;padding-right:1px;width:29%;">
-              <a href=""  style="float:right; text-decoration:none; width:22%; "><img style="width:65%; " src="resources/facebook.png"></a>
-              <a href="" style="float:right; text-decoration:none; width:22%;"><img style="width:65%; " src="resources/gplus.png"></a>
-              <a href="" style="float:right; text-decoration:none; width:22%; "><img style="width:65%; " src="resources/twitter.png"></a>
-              <a href="" style="float:right; text-decoration:none; width:22%;"><img style="width:65%; " src="resources/instagram.png"></a>
+              <a href=""  style="float:right; text-decoration:none; width:22%; "><img style="width:65%; " src="http://invoice.wizvy.com/resources/facebook.png"></a>
+              <a href="" style="float:right; text-decoration:none; width:22%;"><img style="width:65%; " src="http://invoice.wizvy.com/resources/gplus.png"></a>
+              <a href="" style="float:right; text-decoration:none; width:22%; "><img style="width:65%; " src="http://invoice.wizvy.com/resources/twitter.png"></a>
+              <a href="" style="float:right; text-decoration:none; width:22%;"><img style="width:65%; " src="http://invoice.wizvy.com/resources/instagram.png"></a>
           </div>
     </div>
   </footer>
@@ -342,7 +342,7 @@ $message='<html>
 
 <div class="header" width="100%" style="background-color:black; height:100px;">
   <div class="logo" style="width:22%;">
-  <img src="resources/rutogo.png" alt="Creating Email Magic" width="100%" height="92px" style="display: block; float:left; padding: 4px 0px 4px 13px;" />
+  <img src="http://invoice.wizvy.com/resources/rutogo.png" alt="Creating Email Magic" width="100%" height="92px" style="display: block; float:left; padding: 4px 0px 4px 13px;" />
   </div>
     <div class="invoice" style="width:52%;margin-top:4%; float:right;  margin-right: 2%;">
           <p align="right" style="color:white;  margin:0px; padding:0px; font-family:Trebuchet MS,Arial,Helvetica,sans-serif;">Invoice No : '.$invoice_no.'</p>
@@ -351,7 +351,7 @@ $message='<html>
 </div>
    
  <div style="width:98%;margin-left:1%;"> 
- <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 auto; table-layout:fixed; background-image:url(\'http://memeveme.com/resources/background.png\');background-repeat: no-repeat;">
+ <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 auto; table-layout:fixed; background-image:url(\'http://invoice.wizvy.com/resources/background.png\');background-repeat: no-repeat;">
   <tr>
    <td  width="100%" align="center">
      <table align="center" border="0" cellpadding="0" cellspacing="0"  style=" border-collapse: collapse; width:75%;">
@@ -381,7 +381,7 @@ $message='<html>
              </td>
           
             <td align="center" style="  padding: 45px 0 5px 0; float: left;  margin-left: 13%;">
-               <img src="http://memeveme.com/resources/arrow-right.png" style="width:50px;" ></img>
+               <img src="http://invoice.wizvy.com/resources/arrow-right.png" style="width:50px;" ></img>
                <p style="font-family:Trebuchet MS,Arial,Helvetica,sans-serif;font-size: 17px;"><b>'.$car_type.', '.$car_name.'</b></p> 
              </td>
 
@@ -521,7 +521,7 @@ $message='<html>
 
             <tr style="width:100%;">
              <td style="">
-               <img src="resources/terms.png" style="width:100%;"> 
+               <img src="http://invoice.wizvy.com/resources/terms.png" style="width:100%;"> 
              </td>
             </tr>
 
@@ -535,12 +535,12 @@ $message='<html>
 
     <footer>
     <div class="header" width="100%" style="background-color:black;">
-         <img src="resources/address.png" style="width:67%; "> 
+         <img src="http://invoice.wizvy.com/resources/address.png" style="width:67%; "> 
           <div style="float:right; padding-top:18px;padding-right:1px;width:29%;">
-              <a href=""  style="float:right; text-decoration:none; width:22%; "><img style="width:65%; " src="resources/facebook.png"></a>
-              <a href="" style="float:right; text-decoration:none; width:22%;"><img style="width:65%; " src="resources/gplus.png"></a>
-              <a href="" style="float:right; text-decoration:none; width:22%; "><img style="width:65%; " src="resources/twitter.png"></a>
-              <a href="" style="float:right; text-decoration:none; width:22%;"><img style="width:65%; " src="resources/instagram.png"></a>
+              <a href=""  style="float:right; text-decoration:none; width:22%; "><img style="width:65%; " src="http://invoice.wizvy.com/resources/facebook.png"></a>
+              <a href="" style="float:right; text-decoration:none; width:22%;"><img style="width:65%; " src="http://invoice.wizvy.com/resources/gplus.png"></a>
+              <a href="" style="float:right; text-decoration:none; width:22%; "><img style="width:65%; " src="http://invoice.wizvy.com/resources/twitter.png"></a>
+              <a href="" style="float:right; text-decoration:none; width:22%;"><img style="width:65%; " src="http://invoice.wizvy.com/resources/instagram.png"></a>
           </div>
     </div>
   </footer>
@@ -614,7 +614,7 @@ $message='<html>
 
 <div class="header" width="100%" style="background-color:black; height:100px;">
   <div class="logo" style="width:22%;">
-  <img src="resources/rutogo.png" alt="Creating Email Magic" width="100%" height="92px" style="display: block; float:left; padding: 4px 0px 4px 13px;" />
+  <img src="http://invoice.wizvy.com/resources/rutogo.png" alt="Creating Email Magic" width="100%" height="92px" style="display: block; float:left; padding: 4px 0px 4px 13px;" />
   </div>
     <div class="invoice" style="width:52%;margin-top:4%; float:right;  margin-right: 2%;">
           <p align="right" style="color:white;  margin:0px; padding:0px; font-family:Trebuchet MS,Arial,Helvetica,sans-serif;">Invoice No : '.$invoice_no.'</p>
@@ -623,7 +623,7 @@ $message='<html>
 </div>
    
  <div style="width:98%;margin-left:1%;"> 
- <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 auto; table-layout:fixed; background-image:url(\'http://memeveme.com/resources/background.png\');background-repeat: no-repeat;">
+ <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 auto; table-layout:fixed; background-image:url(\'http://invoice.wizvy.com/resources/background.png\');background-repeat: no-repeat;">
   <tr>
    <td  width="100%" align="center">
      <table align="center" border="0" cellpadding="0" cellspacing="0"  style=" border-collapse: collapse; width:75%;">
@@ -653,7 +653,7 @@ $message='<html>
              </td>
           
             <td align="center" style="  padding: 45px 0 5px 0; float: left;  margin-left: 13%;">
-               <img src="http://memeveme.com/resources/arrow-right.png" style="width:50px;" ></img>
+               <img src="http://invoice.wizvy.com/resources/arrow-right.png" style="width:50px;" ></img>
                <p style="font-family:Trebuchet MS,Arial,Helvetica,sans-serif;font-size: 17px;"><b>'.$car_type.', '.$car_name.'</b></p> 
              </td>
 
@@ -771,7 +771,7 @@ $message='<html>
 
             <tr style="width:100%;">
              <td style="">
-               <img src="resources/terms.png" style="width:100%;"> 
+               <img src="http://invoice.wizvy.com/resources/terms.png" style="width:100%;"> 
              </td>
             </tr>
 
@@ -785,12 +785,12 @@ $message='<html>
 
     <footer>
     <div class="header" width="100%" style="background-color:black;">
-         <img src="resources/address.png" style="width:67%; "> 
+         <img src="http://invoice.wizvy.com/resources/address.png" style="width:67%; "> 
           <div style="float:right; padding-top:18px;padding-right:1px;width:29%;">
-              <a href=""  style="float:right; text-decoration:none; width:22%; "><img style="width:65%; " src="resources/facebook.png"></a>
-              <a href="" style="float:right; text-decoration:none; width:22%;"><img style="width:65%; " src="resources/gplus.png"></a>
-              <a href="" style="float:right; text-decoration:none; width:22%; "><img style="width:65%; " src="resources/twitter.png"></a>
-              <a href="" style="float:right; text-decoration:none; width:22%;"><img style="width:65%; " src="resources/instagram.png"></a>
+              <a href=""  style="float:right; text-decoration:none; width:22%; "><img style="width:65%; " src="http://invoice.wizvy.com/resources/facebook.png"></a>
+              <a href="" style="float:right; text-decoration:none; width:22%;"><img style="width:65%; " src="http://invoice.wizvy.com/resources/gplus.png"></a>
+              <a href="" style="float:right; text-decoration:none; width:22%; "><img style="width:65%; " src="http://invoice.wizvy.com/resources/twitter.png"></a>
+              <a href="" style="float:right; text-decoration:none; width:22%;"><img style="width:65%; " src="http://invoice.wizvy.com/resources/instagram.png"></a>
           </div>
     </div>
   </footer>

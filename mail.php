@@ -61,7 +61,7 @@ $message = '<html>
 </div>
     
  <div style="width:100%;"> 
- <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 auto; table-layout:fixed; background-image:url(\'http://memeveme.com/resources/background.png\');background-repeat: no-repeat;">
+ <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 auto; table-layout:fixed; background-image:url(\'http://invoice.wizvy.com/resources/background.png\');background-repeat: no-repeat;">
   <tr>
    <td  width="100%" align="center">
      <table align="center" border="0" cellpadding="0" cellspacing="0"  style=" border-collapse: collapse; width:75%;">
@@ -309,7 +309,7 @@ $message='<html>
 </div>
 
 <div style="width:100%;"> 
- <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 auto; table-layout:fixed; background-image:url(\'http://memeveme.com/resources/background.png\');background-repeat: no-repeat;">
+ <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 auto; table-layout:fixed; background-image:url(\'http://invoice.wizvy.com/resources/background.png\');background-repeat: no-repeat;">
   <tr>
    <td  width="100%" align="center">
      <table align="center" border="0" cellpadding="0" cellspacing="0"  style=" border-collapse: collapse; width:75%;">       
@@ -556,7 +556,7 @@ $message='<html>
 </div>
 
 <div style="width:100%;"> 
- <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 auto; table-layout:fixed; background-image:url(\'http://memeveme.com/resources/background.png\');background-repeat: no-repeat;">
+ <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0 auto; table-layout:fixed; background-image:url(\'http://invoice.wizvy.com/resources/background.png\');background-repeat: no-repeat;">
   <tr>
    <td  width="100%" align="center">
      <table align="center" border="0" cellpadding="0" cellspacing="0"  style=" border-collapse: collapse; width:75%;">       
